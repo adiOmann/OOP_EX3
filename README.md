@@ -1,6 +1,6 @@
 
 # OOP EX3 - Directed Weighted Graph Python
-This project has written by [Adi Oman](https://github.com/adiOmann) and Adi Miller.
+This project has written by [Adi Oman](https://github.com/adiOmann) and [Adi Miller](https://github.com/AdiMM1).
 
 The project implements a data structure of weighted and directional gragh in Python.
 
