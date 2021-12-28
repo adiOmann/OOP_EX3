@@ -50,5 +50,8 @@ This class implements the following functions:
 [Explanation of Travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_proble)
 * *center point* - returns the center node in the graph.
 
+## View our graph
+![WhatsApp Image 2021-12-28 at 23 45 31](https://user-images.githubusercontent.com/94627698/147609426-b7d65db0-9dbd-4d0c-84e1-19ebeccbe8c1.jpeg)
+
 ## UML
 ![image](https://github.com/adiOmann/OOP_EX3/blob/main/UML/UML_screenshot.jpg)
