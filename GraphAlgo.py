@@ -180,9 +180,9 @@ class GraphAlgo(GraphAlgoInterface):
         plt.show()
 
 
-if __name__ == '_main_':
+if __name__ == '__main__':
     algo = GraphAlgo()
-    algo.load_from_json(r"../data/A1.json")
+    algo.load_from_json(r"../data/A0.json")
 
     # graph = DiGraph()
     # print(algo.graph)
