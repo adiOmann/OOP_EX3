@@ -6,6 +6,19 @@ The project implements a data structure of weighted and directional gragh in Pyt
 
 ## DiGraph implement GraphInterface:
 
+### class Node
+* Id
+* position
+* weight
+* Tag
+
+### class Edge
+* src
+* dest
+* weight
+* Tag
+* Info
+
 The DiGraph built with 3 dictionaries:
 1. dictionary that represent list of Nodes.
 2. dictionary that represent list of Nodes's father.
