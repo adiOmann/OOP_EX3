@@ -47,5 +47,5 @@ This class implements the following functions:
 [Explanation of Travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_proble)
 * center point - returns the center node in the graph.
 
-# UML
+## UML
 ![image](https://github.com/adiOmann/OOP_EX3/blob/main/UML/UML_screenshot.jpg)
