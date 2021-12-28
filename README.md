@@ -6,7 +6,7 @@ This assigment is the fourth as part of an object-oriented programming course.
 
 The assigment implements a data structure of weighted and directional gragh in Python.
 
-![image]
+![image](https://github.com/adiOmann/OOP_EX3/blob/main/Weighted-Graph.jpg)
 
 ## DiGraph implement GraphInterface:
 
