@@ -1,8 +1,8 @@
 
-#OOP EX3 - Directed Weighted Graph Python
+# OOP EX3 - Directed Weighted Graph Python
 This asssinment has written by Adi Oman and Adi Miller
 
-##DiGraph implement GraphInterface:
+## DiGraph implement GraphInterface:
 
 The DiGraph built with 3 dictionaries:
 1. dictionary that represent list of Nodes.
