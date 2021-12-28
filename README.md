@@ -39,13 +39,13 @@ This class displays a graph and implements the following functions:
 ## AlgoGraph implement GraphAlgoInterface:
 
 This class implements the following functions:
-* *load_from_json* - load a json file.
-* *save_to_json* - save the graph in json file.
-* *shortest_path* - returns the shortest path from node to other node.
+* *load json file* - load a json file.
+* *save json file* - save the graph in json file.
+* *shortest path* - returns the shortest path from node to other node.
 [based on Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 * *TSP* - returns the shortest path that visits all the nodes in the list. 
 [Explanation of Travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_proble)
-* centerPoint - returns the center node in the graph.
+* center point - returns the center node in the graph.
 
 # UML
 ![image](https://github.com/adiOmann/OOP_EX3/blob/main/UML/UML_screenshot.jpg)
