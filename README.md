@@ -15,12 +15,6 @@ The assigment implements a data structure of weighted and directional gragh in P
 * weight
 * Tag
 
-![WhatsApp Image 2021-12-28 at 22 57 16](https://user-images.githubusercontent.com/94627698/147607236-dd9b50b4-f4c6-4ef4-8787-e1f622348dc1.jpeg)
-![WhatsApp Image 2021-12-28 at 23 06 29](https://user-images.githubusercontent.com/94627698/147607737-226e908e-7334-4d55-84b9-a66fef88ebc4.jpeg)
-![WhatsApp Image 2021-12-28 at 23 00 25](https://user-images.githubusercontent.com/94627698/147607764-0572a71a-9789-4f13-9d0d-e95d477a4c7d.jpeg)
-![WhatsApp Image 2021-12-28 at 23 04 33](https://user-images.githubusercontent.com/94627698/147607770-bf6b7936-6686-4c4b-8aa9-e79eb1e56840.jpeg)
-
-
 ### class Edge
 * src
 * dest
