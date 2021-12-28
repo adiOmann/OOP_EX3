@@ -42,6 +42,7 @@ This class implements the following functions:
 * *load_from_json* - load a json file.
 * *save_to_json* - save the graph in json file.
 * *shortest_path* - returns the shortest path from node to other node.
+[based on Dijkstra's Algorithm] (https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 * *TSP* - returns the shortest path that visits all the nodes in the list. 
 [Explanation of Travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_proble)
 * centerPoint - returns the center node in the graph.
