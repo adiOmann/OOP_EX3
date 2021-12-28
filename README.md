@@ -1,6 +1,7 @@
 
 # OOP EX3 - Directed Weighted Graph Python
 This asssinment has written by Adi Oman and Adi Miller.
+The project implements a data structure of weighted and directional gragh in Python.
 
 ## DiGraph implement GraphInterface:
 
@@ -24,9 +25,9 @@ This class displays a graph and implements the following functions:
 ## AlgoGraph implement GraphAlgoInterface:
 
 This class implements the following functions:
-* load_from_json - load a json file.
-* save_to_json - save the graph in json file.
-* shortest_path - returns the shortest path from node to other node.
-* TSP - returns the shortest path that visits all the nodes in the list. 
+* *load_from_json* - load a json file.
+* *save_to_json* - save the graph in json file.
+* *shortest_path* - returns the shortest path from node to other node.
+* *TSP* - returns the shortest path that visits all the nodes in the list. 
 [Explanation of Travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_proble)
 * centerPoint - returns the center node in the graph.
