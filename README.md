@@ -21,7 +21,7 @@ The project implements a data structure of weighted and directional gragh in Pyt
 
 The DiGraph built with 3 dictionaries:
 1. dictionary that represent list of Nodes.
-2. dictionary that represent list of Nodes's father.
+2. dictionary that represent list of Nodes's fathers.
 3. dictionary that represent list of Nodes's children.
 
 This class displays a graph and implements the following functions:
